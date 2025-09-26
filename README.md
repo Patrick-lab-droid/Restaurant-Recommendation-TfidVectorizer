@@ -1,0 +1,3 @@
+📚 TF-IDF Text Similarity
+
+This project demonstrates how to measure text similarity using scikit-learn’s TF-IDF Vectorizer. The workflow includes text preprocessing with Pandas, NumPy, and Regex, followed by vectorization using both CountVectorizer and TfidfVectorizer. Cosine similarity is calculated through the linear kernel to compare documents and extract semantic relationships. Results and insights are visualized with Matplotlib and Seaborn, making it easier to analyze patterns in text data. This project highlights the power of NLP techniques for recommendation systems, document clustering, and search optimization.
